@@ -6,7 +6,7 @@ import { Component, OnChanges, OnInit, SimpleChanges } from '@angular/core';
   styleUrls: ['./first.component.css']
 })
 export class FirstComponent implements OnInit,OnChanges{
-klass="4twin6 Esprit";
+klass="4TWIN7 Esprit";
 kolor='red'
 
 sayHello(){
